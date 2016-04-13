@@ -1,4 +1,6 @@
 This is my personal website. 
+
+
 The goals of this website are as follows:
 1) Catalogue and display my past experiences and projects
 2) Serve as a platform to get to know me
