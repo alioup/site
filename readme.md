@@ -12,18 +12,18 @@
 
 ##Features:
 
-[x] Experiences Section
+- [x] Experiences Section
 
-[x] Interests Sections
+- [x] Interests Sections
 
-[x] Links ot email, github, and linkedin
+- [x] Links ot email, github, and linkedin
 
-[x] Project discriptions and links
+- [x] Project discriptions and links
 
-[ ] Make multiple pages
+- [ ] Make multiple pages
 
-[ ] Make further cusomizations 
+- [ ] Make further cusomizations 
 
-[ ] Improve design and make my own assets
+- [ ] Improve design and make my own assets
 
-[ ] Add more interactive features to make it a fun browsing experience
+- [ ] Add more interactive features to make it a fun browsing experience
