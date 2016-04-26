@@ -27,3 +27,6 @@
 - [ ] Improve design and make my own assets
 
 - [ ] Add more interactive features to make it a fun browsing experience
+
+-[ ] Highlight projects more
+
