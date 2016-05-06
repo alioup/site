@@ -20,7 +20,7 @@
 
 - [x] Project discriptions and links
 
-- [ ] Make multiple pages
+- [x] Make multiple pages
 
 - [ ] Make further cusomizations 
 
